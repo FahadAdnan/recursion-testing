@@ -1,0 +1,39 @@
+C:\Users\LENOVO\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\LENOVO\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\LENOVO\source\repos\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\LENOVO\source\repos\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Recursion\Recursion\obj\Debug\Recursion.Form1.resources
+C:\Users\LENOVO\source\repos\Recursion\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Recursion\Recursion\obj\Debug\Recursion.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\LENOVO\source\repos\Recursion\Recursion\obj\Debug\Recursion.pdb
+C:\Users\LENOVO\Desktop\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\LENOVO\Desktop\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\LENOVO\Desktop\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\LENOVO\Desktop\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Recursion\Recursion\obj\Debug\Recursion.Form1.resources
+C:\Users\LENOVO\Desktop\Recursion\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Recursion\Recursion\obj\Debug\Recursion.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\LENOVO\Desktop\Recursion\Recursion\obj\Debug\Recursion.pdb
+D:\OLD CS Stuff c#\Recursion\Recursion\bin\Debug\Recursion.exe.config
+D:\OLD CS Stuff c#\Recursion\Recursion\bin\Debug\Recursion.exe
+D:\OLD CS Stuff c#\Recursion\Recursion\bin\Debug\Recursion.pdb
+D:\OLD CS Stuff c#\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+D:\OLD CS Stuff c#\Recursion\Recursion\obj\Debug\Recursion.Form1.resources
+D:\OLD CS Stuff c#\Recursion\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+D:\OLD CS Stuff c#\Recursion\Recursion\obj\Debug\Recursion.csproj.GenerateResource.cache
+D:\OLD CS Stuff c#\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+D:\OLD CS Stuff c#\Recursion\Recursion\obj\Debug\Recursion.exe
+D:\OLD CS Stuff c#\Recursion\Recursion\obj\Debug\Recursion.pdb
+C:\Users\admin\Desktop\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\admin\Desktop\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\admin\Desktop\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\admin\Desktop\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Recursion\Recursion\obj\Debug\Recursion.Form1.resources
+C:\Users\admin\Desktop\Recursion\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+C:\Users\admin\Desktop\Recursion\Recursion\obj\Debug\Recursion.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\admin\Desktop\Recursion\Recursion\obj\Debug\Recursion.pdb
